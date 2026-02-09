@@ -24,4 +24,4 @@ I’m Bowen, a third-year Engineering Physics student at the University of Briti
 
   - **RF communications** and **system verification** for space-grade hardware designing a [Dynamic Channel Emulator](https://doi.org/10.1109/CCECE59415.2024.10667238) at the [UBC Radio Science Lab](https://rsl.ece.ubc.ca/)
 
-  Outside of work, you can probably find me at a [curling rink](https://vancurl.com/index.php) or a [movie theatre](https://boxd.it/dGkGt). Feel free to check out my [resume](/resume) or [email me](mailto:byuan06@student.ubc.ca) if you’d like to chat :)
+  Outside of work, you can probably find me at a [curling rink](https://vancurl.com/index.php) or a [movie theatre](https://boxd.it/dGkGt). Feel free to check out my [resume](https://byuantl.github.io/resume/) or [email me](mailto:byuan06@student.ubc.ca) if you’d like to chat :)
